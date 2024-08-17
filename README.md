@@ -29,7 +29,7 @@ Welcome to my QA portfolio! This repository showcases several projects I've work
 - **Description**: An eCommerce website for purchasing furniture.
 - **Technologies Used**: HTML, CSS, Java, IntelliJ IDEA
 
-### 6. [Pet Store](./PetStore-RestAPI-Testing-)
+### 6. [Pet Store](./PetStore-RestAPI-Testing)
 
 - **Description**: An eCommerce website for pets.
 - **Technologies Used**: Postman, REST API, JavaScript
