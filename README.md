@@ -19,7 +19,7 @@ Welcome to my QA portfolio! This repository showcases several projects I've work
 - **Description**: An EdTech website and learning platform.
 - **Technologies Used**: Microsoft Excel
 
-### 4. [Interrapt - REST API Testing](./Interrapt-REST-API-testing)
+### 4. [Interrapt - REST API Testing](./Interrapt-REST-API-Testing)
 
 - **Description**: An EdTech website and learning platform with a focus on REST API testing.
 - **Technologies Used**: Postman, REST API, JavaScript
