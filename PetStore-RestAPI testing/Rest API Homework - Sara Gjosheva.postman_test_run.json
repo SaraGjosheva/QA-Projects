@@ -1,0 +1,262 @@
+{
+	"id": "2551abf9-1cc4-4761-9d29-e58c2b36480e",
+	"name": "Rest API Homework - Sara Gjosheva",
+	"timestamp": "2024-03-27T21:01:59.162Z",
+	"collection_id": "33595671-3dc9da03-388e-48ba-aadd-f8a3ae947b45",
+	"folder_id": "33595671-1bea0a85-b992-4013-abd3-0719d6cb2809",
+	"environment_id": "33595671-c8c5c3ee-922b-408f-a2d9-cbd0da41250b",
+	"totalPass": 0,
+	"delay": 0,
+	"persist": false,
+	"status": "finished",
+	"startedAt": "2024-03-27T21:01:47.470Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "0d333f8f-7e16-4ff0-b462-3745865041ed",
+			"name": "Create a pet",
+			"url": "https://petstore3.swagger.io/api/v3/pet",
+			"time": 104,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				448,
+				105,
+				119,
+				103,
+				101,
+				103,
+				150,
+				103,
+				102,
+				104
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "592bce45-3787-43af-bdae-7c5c22fc3c83",
+			"name": "Check the pet",
+			"url": "https://petstore3.swagger.io/api/v3/pet/2817",
+			"time": 104,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				106,
+				102,
+				106,
+				104,
+				108,
+				102,
+				102,
+				151,
+				102,
+				104
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "743a1126-7f4c-464c-855d-236d94781df9",
+			"name": "Update the pet",
+			"url": "https://petstore3.swagger.io/api/v3/pet",
+			"time": 196,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				101,
+				106,
+				105,
+				105,
+				102,
+				103,
+				178,
+				105,
+				106,
+				196
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "982839b1-c2e4-4ff4-a36e-f3c95174ddc8",
+			"name": "Check the pet",
+			"url": "https://petstore3.swagger.io/api/v3/pet/2817",
+			"time": 103,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				106,
+				126,
+				102,
+				102,
+				105,
+				102,
+				105,
+				102,
+				105,
+				103
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "376c6b52-e254-4e7c-850a-f2a41cc41e1e",
+			"name": "Delete the pet",
+			"url": "https://petstore3.swagger.io/api/v3/pet/2817",
+			"time": 102,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				174,
+				101,
+				102,
+				103,
+				103,
+				101,
+				103,
+				126,
+				106,
+				102
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "e01b5460-65f1-47d9-8235-6c1e79eb0078",
+			"name": "Check if the pet is deleted",
+			"url": "https://petstore3.swagger.io/api/v3/pet/2817",
+			"time": 103,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				127,
+				169,
+				103,
+				102,
+				106,
+				103,
+				103,
+				104,
+				166,
+				103
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		}
+	],
+	"count": 10,
+	"totalTime": 7097,
+	"collection": {
+		"requests": [
+			{
+				"id": "0d333f8f-7e16-4ff0-b462-3745865041ed",
+				"method": "POST"
+			},
+			{
+				"id": "592bce45-3787-43af-bdae-7c5c22fc3c83",
+				"method": "GET"
+			},
+			{
+				"id": "743a1126-7f4c-464c-855d-236d94781df9",
+				"method": "PUT"
+			},
+			{
+				"id": "982839b1-c2e4-4ff4-a36e-f3c95174ddc8",
+				"method": "GET"
+			},
+			{
+				"id": "376c6b52-e254-4e7c-850a-f2a41cc41e1e",
+				"method": "DELETE"
+			},
+			{
+				"id": "e01b5460-65f1-47d9-8235-6c1e79eb0078",
+				"method": "GET"
+			}
+		]
+	}
+}

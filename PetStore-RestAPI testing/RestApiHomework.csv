@@ -1,0 +1,11 @@
+categoryName, categoryId, petName, tagName, tagId, status
+Dog, 10, Tom, doggi, 1, available
+Cat, 21, Tim, mau, 4, pending
+Parrot, 5, Lax, pipi, 7, available
+Snake, 3, Li, ps, 11, pending
+Cat, 6, Jerry, mau, 8, available
+Parot, 15, Pipito, pipi, 16, pending
+Cat, 12, Max, mau, 3, available
+Cat, 9, Polly, mau, 9, pending
+Parrot, 13, Leo, pipi, 2, available
+Parrot, 16, Willy, pipi, 1, pending
