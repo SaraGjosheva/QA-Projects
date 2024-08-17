@@ -1,3 +1,3 @@
-# Description
+# Bookworm eCommerce Website - Test Plan, Manual Testing, Automation Testing
 
 Designed a thorough Master Test Plan for the eCommerce Website (book store), outlining the testing strategy, scope, resources, schedule, and deliverables. Crafted detailed test cases to cover various functionalities of the e-commerce website, ensuring comprehensive coverage through BVA, Equivalence Partitioning, and Edge Case Testing techniques. Executed test cases meticulously on the website, identifying and documenting bugs through detailed bug reports. Suggested improvements to enhance user experience and system performance. Automated critical functionalities of the e-commerce platform, ensuring efficient and reliable regression testing for future releases. Creation of a Demo Presentation for the Client.
