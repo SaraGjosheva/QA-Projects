@@ -36,7 +36,7 @@ Welcome to my QA portfolio! This repository showcases several projects I've work
 
 ## Getting Started
 
-To explore any of these projects, clone this repository and navigate to the respective project folder. Each project contains a `README.md` file with specific setup instructions.
+To explore any of these projects, clone this repository and navigate to the respective project folder. Each project contains a `README.md` file with specific description.
 
 ## Contact
 
